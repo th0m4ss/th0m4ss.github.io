@@ -1,6 +1,6 @@
 ---
 title:  "TJCTF 2022 -- misc/twist-cord"
-date:   2022-05-16 00:00:00 -0500
+date:   2022-05-16 00:00:00 -0400
 categories: TJCTF2022 misc
 tags: TJCTF2022 misc
 # classes: wide
