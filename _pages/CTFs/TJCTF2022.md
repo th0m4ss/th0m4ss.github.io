@@ -4,6 +4,7 @@ layout: category
 taxonomy: TJCTF2022
 permalink: /CTFs/TJCTF2022
 entries_layout: list
+author_profile: true
 ---
 
 I haven'e done a CTFs in a while, until a friend hit me up saying we should try this year's [TFCTF](https://tjctf.org/).

@@ -1,0 +1,19 @@
+{
+    "name": "th0m4s's blog",
+    "short_name": "th0m4s's blog",
+    "icons": [
+        {
+            "src": "/assets/favicon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/favicon/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#727272",
+    "background_color": "#727272",
+    "display": "standalone"
+}
