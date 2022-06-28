@@ -11,3 +11,4 @@ Here's some of the write-ups that I did.
 
 - [TJCTF 2022](./TJCTF2022)
 - [EZ CTF 2022](./EZCTF2022)
+- [GREY CTF 2022](./GREYCTF2022)
